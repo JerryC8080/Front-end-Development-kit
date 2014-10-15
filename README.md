@@ -58,13 +58,16 @@
 > [为您详细比较三个 CSS 预处理器（框架）：Sass、LESS 和 Stylus](http://www.oschina.net/question/12_44255)
 > |
 > [Sass vs. LESS](http://css-tricks.com/sass-vs-less/)
-		
+
+
+
+
 
 CSS框架/UI类库
 ---
 
 #### pureCss
->纯CSS 模板，响应式，提供了最基础的常用模块的样式表，包括有：网格Grids、表单Forms、按钮Buttons、表格Tables、菜单Menus
+>纯CSS 模板，响应式，提供了最基础的常用模块的样式表，包括有：网格Grids、表单Forms、按钮Buttons、表格Tables、菜单Menus。
 > 
 > **参考**：
 > [官网](http://purecss.io/)
@@ -80,7 +83,16 @@ CSS框架/UI类库
 > [Bootstrap中文网](http://www.bootcss.com/)
 
 #### Semantic UI
-#### Juics UI
+> 和其他CSS UI框架一样，提供了一系列通用的组件UI，充分利用了CSS3动画特效。根据官网的介绍，比Bootstrap更注重语义化。
+> 
+>  **参考**：
+> [官网](http://semantic-ui.com/)
+> |
+> [Semantic UI中文网](http://www.semantic-ui.com.cn/)
+> |
+> [Semantic-UI和其他几个前端框架](http://dmyz.org/archives/548)
+
+
 
 
 
@@ -105,17 +117,32 @@ JS框架/类库
 #### ember.js/angular.js
 > 前端MVC框架，提供数据双向绑定、路由、AJAX、数据模块化等功能，方便构建单页面应用。
 
-#### Backbone
 
-#### KnockoutJS
-
-
-#### handlebad.js 
 #### Qatrix.js
 > 轻量级前端框架，类jQuery。
+
+#### Zepto
+> Zepto是一个轻量级的针对现代高级浏览器的JavaScript库， 它与jquery有着类似的api。 如果你会用jquery，那么你也会用zepto。
+> 
+> 设计的目的是提供jquery的类似的APIs，但并不是100%覆盖jquery为目的。zepto设计的目的是有一个5-10k的通用库、下载并执行快、有一个熟悉通用的API，所以你能把你主要的精力放到应用开发上。
+>
+> 可惜不支持IE10以下的IE浏览器
+
+> 
+>  **参考**：
+> [官网](http://zeptojs.com/)
+> |
+> [Zepto 中文网](http://www.html-5.cn/Manual/Zepto/)
+
 
 #### KISSY
 
 #### YUI3
 
 #### phantomjs
+
+#### Backbone
+
+#### KnockoutJS
+
+#### handlebad.js 
