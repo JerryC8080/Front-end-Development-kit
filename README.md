@@ -112,10 +112,25 @@ JS框架/类库
 > 遵循了[CMD](https://github.com/seajs/seajs/issues/242)(通用模块定义规范)，有延后执行、依赖就近等特点
 
 
+#### angular.js
+> Angular.js是一款开源的JavaScript框架，由Google维护，其目标是增强基于Web应用，并带有MVC功能，使得开发和测试变得更加容易。
+>  
+> Angular.js读取包含附加自定义（标签属性）的HTML，遵从这些自定义属性中的指令，并将页面中的输入输出与由JavaScript变量表示的模型绑定起来。这些JavaScript变量的值可以手工设置，或者从静态或动态JSON资源中获取。
+> 
+>  **参考**：
+> [官网](https://angularjs.org/)
 
-
-#### ember.js/angular.js
-> 前端MVC框架，提供数据双向绑定、路由、AJAX、数据模块化等功能，方便构建单页面应用。
+#### ember.js
+> Ember.js同样是一个用于创建web应用的JavaScript MVC 框架，其采用基于字符串的Handlebars模板，支持双向绑定、观察者模式、计算属性（依赖其他属性动态变化）、自动更新模板、路由控制、状态机等。
+>
+> Ember.js使用自身扩展的类来创建Ember.js对象、数组、字符串、函数，提供大量方法与属性用于操作。每一个Ember.js应用都使用各自的命名空间，避免冲突。
+> 
+>  **参考**：
+> [官网](http://emberjs.com/)
+> |
+> [Angular.js VS. Ember.js：谁将成为Web开发的新宠？](http://www.csdn.net/article/2013-09-09/2816880-Angular-Ember-Javascript-Frameworks)
+> |
+> [前端开发框架三剑客—AngularJS VS. Backone.js VS.Ember.js](http://www.csdn.net/article/2014-08-28/2821409-javascript-framework-comparison)
 
 
 #### Qatrix.js
