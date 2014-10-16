@@ -102,14 +102,24 @@ JS框架/类库
 ---
 
 #### require.js
-> 把javascript模块化，方便阅读和管理。
+> RequireJS 是一个 JavaScript 文件和模块加载器，特别为浏览器优化，同时也可运行在 Rhino 和 Node 环境中
 > 
 > 遵循了[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)（异步模块定义规范），有提前执行、依赖前置等特点。
+> 
+>  **参考**：
+> [官网](http://requirejs.org)
+> |
+> [前端模块管理器简介](http://www.ruanyifeng.com/blog/2014/09/package-management.html)
 
 #### sea.js
-> 跟requirejs一样，实现javascript的模块化。
->
+> SeaJS是一个遵循CommonJS规范的JavaScript模块加载框架，可以实现JavaScript的模块化开发及加载机制。
+> 
 > 遵循了[CMD](https://github.com/seajs/seajs/issues/242)(通用模块定义规范)，有延后执行、依赖就近等特点
+> 
+>  **参考**：
+> [官网](http://seajs.org/)
+> |
+> [LABjs、RequireJS、SeaJS 哪个最好用？为什么？](http://www.zhihu.com/question/20342350)
 
 
 #### angular.js
@@ -149,6 +159,9 @@ JS框架/类库
 > |
 > [Zepto 中文网](http://www.html-5.cn/Manual/Zepto/)
 
+#### HandlebarsJS
+
+#### MustacheJS
 
 #### KISSY
 
@@ -160,4 +173,3 @@ JS框架/类库
 
 #### KnockoutJS
 
-#### handlebad.js 
